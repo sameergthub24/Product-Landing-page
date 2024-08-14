@@ -3,17 +3,17 @@
 *Welcome to the Apple Fruit Shop Landing Page repository! This project is a responsive and visually appealing landing page for a fictional fruit shop, showcasing various types of apples and providing essential information about the shop's offerings.* :blush:
 
 ## Table of Contents :heartpulse:
-**Demo**
+- **Demo**
 
-**Features**
+- **Features**
 
-**Technologies Used**
+- **Technologies Used**
 
-**Setup**
+- **Setup**
 
-**Usage**
+- **Usage**
 
-**Contributing**
+- **Contributing**
 
 ## Demo
 Check out the live demo of the landing page here.- [Product-Landing-page](https://github.com/sameergthub24/Product-Landing-page)
